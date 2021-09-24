@@ -9,3 +9,7 @@ Si queres saber más informacion sobre mi podés verla [acá](https://github.com
 - Javascript
 - React
 - SASS/Less
+ 
+## Estoy aprendiendo 💡
+
+- Vue.js
