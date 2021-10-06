@@ -7,9 +7,11 @@ Si queres saber más informacion sobre mi podés verla [acá](https://github.com
 ## Lenguajes y Herramientas que uso 💻
 
 - Javascript
-- React
+- Vue.js
 - SASS/Less
  
 ## Estoy aprendiendo 💡
 
-- Vue.js
+- Node.js
+- React
+- Bootstrap 4
